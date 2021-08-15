@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DisemvowelKata": {
+      "commandName": "Project",
+      "commandLineArgs": "\"This is a test!\""
+    }
+  }
+}

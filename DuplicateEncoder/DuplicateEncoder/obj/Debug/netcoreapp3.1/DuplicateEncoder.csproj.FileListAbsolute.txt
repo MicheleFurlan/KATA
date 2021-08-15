@@ -1,0 +1,11 @@
+D:\KATA\DuplicateEncoder\DuplicateEncoder\obj\Debug\netcoreapp3.1\DuplicateEncoder.csprojAssemblyReference.cache
+D:\KATA\DuplicateEncoder\DuplicateEncoder\obj\Debug\netcoreapp3.1\DuplicateEncoder.AssemblyInfoInputs.cache
+D:\KATA\DuplicateEncoder\DuplicateEncoder\obj\Debug\netcoreapp3.1\DuplicateEncoder.AssemblyInfo.cs
+D:\KATA\DuplicateEncoder\DuplicateEncoder\bin\Debug\netcoreapp3.1\DuplicateEncoder.exe
+D:\KATA\DuplicateEncoder\DuplicateEncoder\bin\Debug\netcoreapp3.1\DuplicateEncoder.deps.json
+D:\KATA\DuplicateEncoder\DuplicateEncoder\bin\Debug\netcoreapp3.1\DuplicateEncoder.runtimeconfig.json
+D:\KATA\DuplicateEncoder\DuplicateEncoder\bin\Debug\netcoreapp3.1\DuplicateEncoder.runtimeconfig.dev.json
+D:\KATA\DuplicateEncoder\DuplicateEncoder\bin\Debug\netcoreapp3.1\DuplicateEncoder.dll
+D:\KATA\DuplicateEncoder\DuplicateEncoder\bin\Debug\netcoreapp3.1\DuplicateEncoder.pdb
+D:\KATA\DuplicateEncoder\DuplicateEncoder\obj\Debug\netcoreapp3.1\DuplicateEncoder.dll
+D:\KATA\DuplicateEncoder\DuplicateEncoder\obj\Debug\netcoreapp3.1\DuplicateEncoder.pdb
