@@ -37,8 +37,7 @@ namespace DuplicateEncoderKata
 
         public static void Main(string[] args)
         {
-            //DuplicateEncoder.DuplicateEncode(args[0]);
-            Console.WriteLine(DuplicateEncoder.DuplicateEncode("Success"));
+            DuplicateEncoder.DuplicateEncode(args[0]);
         }
     }
 }
