@@ -9,16 +9,15 @@ namespace DuplicateEncoderKata
     {
         public static string DuplicateEncode(string word)
         {
-
-            // Init dictionary
-            var map = new Dictionary<char, int>();
+            word = word.ToLower();
+            var vec = Encoding.UTF8.GetBytes(word.ToCharArray());
 
             // Init output
             var builder = new StringBuilder();
 
-            for (int i = 0; i< word.ToLower().Length; i++)
+            for (int i = 0; i< vec.Length; i++)
             {
-                var count = word.Count(x => x == word.ToLower()[i]);
+                var count = vec.Count(x => x == vec[i]);
 
                 if (count > 1)
                 {
@@ -38,8 +37,8 @@ namespace DuplicateEncoderKata
 
         public static void Main(string[] args)
         {
-            DuplicateEncoder.DuplicateEncode(args[0]);
-            //Console.WriteLine(DuplicateEncoder.DuplicateEncode("(( @"));
+            //DuplicateEncoder.DuplicateEncode(args[0]);
+            Console.WriteLine(DuplicateEncoder.DuplicateEncode("Success"));
         }
     }
 }
