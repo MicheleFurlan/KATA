@@ -1,0 +1,11 @@
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\bin\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.exe
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\bin\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.deps.json
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\bin\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.runtimeconfig.json
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\bin\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.runtimeconfig.dev.json
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\bin\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.dll
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\bin\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.pdb
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\obj\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.csprojAssemblyReference.cache
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\obj\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.AssemblyInfoInputs.cache
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\obj\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.AssemblyInfo.cs
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\obj\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.dll
+D:\KATA\ConvertStringToCamelCaseKata\ConvertStringToCamelCaseKata\obj\Debug\netcoreapp3.1\ConvertStringToCamelCaseKata.pdb
