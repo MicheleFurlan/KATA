@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostProfitFromStockQuotesKata", "MostProfitFromStockQuotesKata\MostProfitFromStockQuotesKata.csproj", "{D983F2B1-FB19-4C41-8598-2DF11155C0A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MostProfitFromStockQuotesKataTest", "MostProfitFromStockQuotesKataTest\MostProfitFromStockQuotesKataTest.csproj", "{9C98BCE5-9ECA-4666-9926-A014AAF40792}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D983F2B1-FB19-4C41-8598-2DF11155C0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D983F2B1-FB19-4C41-8598-2DF11155C0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D983F2B1-FB19-4C41-8598-2DF11155C0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D983F2B1-FB19-4C41-8598-2DF11155C0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C98BCE5-9ECA-4666-9926-A014AAF40792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C98BCE5-9ECA-4666-9926-A014AAF40792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C98BCE5-9ECA-4666-9926-A014AAF40792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C98BCE5-9ECA-4666-9926-A014AAF40792}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF39F2E-5707-4CEB-9821-EF094E80F5DC}
+	EndGlobalSection
+EndGlobal

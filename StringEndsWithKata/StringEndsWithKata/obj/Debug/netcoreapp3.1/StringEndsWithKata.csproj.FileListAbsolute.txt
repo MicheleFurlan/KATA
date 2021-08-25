@@ -1,0 +1,11 @@
+D:\KATA\StringEndsWithKata\StringEndsWithKata\obj\Debug\netcoreapp3.1\StringEndsWithKata.csprojAssemblyReference.cache
+D:\KATA\StringEndsWithKata\StringEndsWithKata\obj\Debug\netcoreapp3.1\StringEndsWithKata.AssemblyInfoInputs.cache
+D:\KATA\StringEndsWithKata\StringEndsWithKata\obj\Debug\netcoreapp3.1\StringEndsWithKata.AssemblyInfo.cs
+D:\KATA\StringEndsWithKata\StringEndsWithKata\bin\Debug\netcoreapp3.1\StringEndsWithKata.exe
+D:\KATA\StringEndsWithKata\StringEndsWithKata\bin\Debug\netcoreapp3.1\StringEndsWithKata.deps.json
+D:\KATA\StringEndsWithKata\StringEndsWithKata\bin\Debug\netcoreapp3.1\StringEndsWithKata.runtimeconfig.json
+D:\KATA\StringEndsWithKata\StringEndsWithKata\bin\Debug\netcoreapp3.1\StringEndsWithKata.runtimeconfig.dev.json
+D:\KATA\StringEndsWithKata\StringEndsWithKata\bin\Debug\netcoreapp3.1\StringEndsWithKata.dll
+D:\KATA\StringEndsWithKata\StringEndsWithKata\bin\Debug\netcoreapp3.1\StringEndsWithKata.pdb
+D:\KATA\StringEndsWithKata\StringEndsWithKata\obj\Debug\netcoreapp3.1\StringEndsWithKata.dll
+D:\KATA\StringEndsWithKata\StringEndsWithKata\obj\Debug\netcoreapp3.1\StringEndsWithKata.pdb
