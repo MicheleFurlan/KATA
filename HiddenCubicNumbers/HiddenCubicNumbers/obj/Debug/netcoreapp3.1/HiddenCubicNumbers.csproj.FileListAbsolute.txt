@@ -1,0 +1,11 @@
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\bin\Debug\netcoreapp3.1\HiddenCubicNumbers.exe
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\bin\Debug\netcoreapp3.1\HiddenCubicNumbers.deps.json
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\bin\Debug\netcoreapp3.1\HiddenCubicNumbers.runtimeconfig.json
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\bin\Debug\netcoreapp3.1\HiddenCubicNumbers.runtimeconfig.dev.json
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\bin\Debug\netcoreapp3.1\HiddenCubicNumbers.dll
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\bin\Debug\netcoreapp3.1\HiddenCubicNumbers.pdb
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\obj\Debug\netcoreapp3.1\HiddenCubicNumbers.csprojAssemblyReference.cache
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\obj\Debug\netcoreapp3.1\HiddenCubicNumbers.AssemblyInfoInputs.cache
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\obj\Debug\netcoreapp3.1\HiddenCubicNumbers.AssemblyInfo.cs
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\obj\Debug\netcoreapp3.1\HiddenCubicNumbers.dll
+D:\KATA\HiddenCubicNumbers\HiddenCubicNumbers\obj\Debug\netcoreapp3.1\HiddenCubicNumbers.pdb

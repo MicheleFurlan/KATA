@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenCubicNumbers", "HiddenCubicNumbers\HiddenCubicNumbers.csproj", "{478FC779-EA3F-46B8-BAAD-EB4BB6450F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HiddenCubicNumbersTest", "HiddenCubicNumbersTest\HiddenCubicNumbersTest.csproj", "{7B1881BF-EB4F-46BE-BA77-3D4A70F090E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478FC779-EA3F-46B8-BAAD-EB4BB6450F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478FC779-EA3F-46B8-BAAD-EB4BB6450F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478FC779-EA3F-46B8-BAAD-EB4BB6450F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478FC779-EA3F-46B8-BAAD-EB4BB6450F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B1881BF-EB4F-46BE-BA77-3D4A70F090E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1881BF-EB4F-46BE-BA77-3D4A70F090E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1881BF-EB4F-46BE-BA77-3D4A70F090E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1881BF-EB4F-46BE-BA77-3D4A70F090E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D25FB249-2ED1-4FAD-947B-AE246771B0F5}
+	EndGlobalSection
+EndGlobal
