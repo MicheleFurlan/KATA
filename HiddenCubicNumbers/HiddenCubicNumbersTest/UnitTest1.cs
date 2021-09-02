@@ -1,6 +1,7 @@
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using HiddenCubicNumbersKata;
+using System.Text.RegularExpressions;
 
 namespace KataTest
 {

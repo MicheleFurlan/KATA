@@ -14,70 +14,21 @@ namespace HiddenCubicNumbersKata
         public static string isSumOfCubes(string s)
         {
 
-            // Identify numbers in string
-            string[] numbers = Regex.Split(s, @"\D+");
+            // Extract numbers
+            var numbers = Regex.Matches(s, @"\d{1,3}")
+                .Cast<Match>()
+                .Select(m => m.Value)
+                .ToArray();
 
-            // Detect and separate numbers longer than 3 digits
-            for (int x = 0; x<numbers.Count();x++)
+            // Check if any magic cube exists
+            var exist = numbers.Where(x => x
+                .Select(c => Pow((int)char.GetNumericValue(c), 3)).Sum() == int.Parse(x))
+                .Select(x => int.Parse(x));
+
+            // Produce output
+            if (exist.Any())
             {
-                string value = numbers[x];
-                if (value.Length>3)
-                {
-                    StringBuilder sb = new StringBuilder();
-                    for (int i = 0; i < value.Length; i++)
-                    {
-                        if (i % 3 == 0)
-                            sb.Append(' ');
-                        sb.Append(value[i]);
-                    }
-                    string formatted = sb.ToString();
-
-                    numbers = numbers.Concat(formatted.Split()).ToArray();
-
-                }
-            }
-
-            // Remove empty spaced
-            numbers = numbers.Where(x => !string.IsNullOrEmpty(x)).ToArray();
-            numbers = numbers.Where(x => x.Length<4).ToArray();
-
-            // Implement
-            var outcome = new List<bool>();
-            var result = new List<int>();
-            var cubic = new List<int>();
-            StringBuilder cubic_str = new StringBuilder();
-            foreach (string value in numbers)
-            {
-                
-                var charArray = value.ToString().ToCharArray();
-
-                int[] Aint = charArray.Select(a => a - '0').ToArray();
-
-                for (int i = 0; i < Aint.Length; i++)
-                {
-                    result.Add(Aint[i] * Aint[i] * Aint[i]);
-                }
-
-                if (result.Sum() == int.Parse(value))
-                {
-                    outcome.Add(true);
-                    cubic.Add(int.Parse(value));
-                    cubic_str.Append(int.Parse(value));
-                    cubic_str.Append(" ");
-                }
-                else
-                {
-                    outcome.Add(false);
-                }
-                result.Clear();
-            }
-
-            // Set output
-            if (outcome.Any(x => x))
-            {
-                cubic_str.Append(cubic.Sum());
-                cubic_str.Append(" Lucky");
-                return cubic_str.ToString();
+                return exist.Aggregate(string.Empty, (a, b) => a + b + ' ') + exist.Sum() + " Lucky";
             }
             else
             {

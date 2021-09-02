@@ -1,0 +1,3 @@
+D:\KATA\RGB2Hex\RGB2HexTest\obj\Debug\netcoreapp3.1\RGB2HexTest.csprojAssemblyReference.cache
+D:\KATA\RGB2Hex\RGB2HexTest\obj\Debug\netcoreapp3.1\RGB2HexTest.AssemblyInfoInputs.cache
+D:\KATA\RGB2Hex\RGB2HexTest\obj\Debug\netcoreapp3.1\RGB2HexTest.AssemblyInfo.cs

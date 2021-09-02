@@ -1,0 +1,3 @@
+D:\KATA\RGB2Hex\RGB2Hex\obj\Debug\netcoreapp3.1\RGB2Hex.csprojAssemblyReference.cache
+D:\KATA\RGB2Hex\RGB2Hex\obj\Debug\netcoreapp3.1\RGB2Hex.AssemblyInfoInputs.cache
+D:\KATA\RGB2Hex\RGB2Hex\obj\Debug\netcoreapp3.1\RGB2Hex.AssemblyInfo.cs
