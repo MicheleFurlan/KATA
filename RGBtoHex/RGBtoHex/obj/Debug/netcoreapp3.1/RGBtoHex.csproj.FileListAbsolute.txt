@@ -1,0 +1,11 @@
+D:\KATA\RGBtoHex\RGBtoHex\obj\Debug\netcoreapp3.1\RGBtoHex.csprojAssemblyReference.cache
+D:\KATA\RGBtoHex\RGBtoHex\obj\Debug\netcoreapp3.1\RGBtoHex.AssemblyInfoInputs.cache
+D:\KATA\RGBtoHex\RGBtoHex\obj\Debug\netcoreapp3.1\RGBtoHex.AssemblyInfo.cs
+D:\KATA\RGBtoHex\RGBtoHex\bin\Debug\netcoreapp3.1\RGBtoHex.exe
+D:\KATA\RGBtoHex\RGBtoHex\bin\Debug\netcoreapp3.1\RGBtoHex.deps.json
+D:\KATA\RGBtoHex\RGBtoHex\bin\Debug\netcoreapp3.1\RGBtoHex.runtimeconfig.json
+D:\KATA\RGBtoHex\RGBtoHex\bin\Debug\netcoreapp3.1\RGBtoHex.runtimeconfig.dev.json
+D:\KATA\RGBtoHex\RGBtoHex\bin\Debug\netcoreapp3.1\RGBtoHex.dll
+D:\KATA\RGBtoHex\RGBtoHex\bin\Debug\netcoreapp3.1\RGBtoHex.pdb
+D:\KATA\RGBtoHex\RGBtoHex\obj\Debug\netcoreapp3.1\RGBtoHex.dll
+D:\KATA\RGBtoHex\RGBtoHex\obj\Debug\netcoreapp3.1\RGBtoHex.pdb

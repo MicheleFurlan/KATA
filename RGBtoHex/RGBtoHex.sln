@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGBtoHex", "RGBtoHex\RGBtoHex.csproj", "{2710CFAE-50BB-48F6-854D-0AB0D5A713AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGBtoHexTest", "RGBtoHexTest\RGBtoHexTest.csproj", "{20B64FB2-A922-43CB-9AD0-B472694D5A2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2710CFAE-50BB-48F6-854D-0AB0D5A713AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2710CFAE-50BB-48F6-854D-0AB0D5A713AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2710CFAE-50BB-48F6-854D-0AB0D5A713AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2710CFAE-50BB-48F6-854D-0AB0D5A713AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B64FB2-A922-43CB-9AD0-B472694D5A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B64FB2-A922-43CB-9AD0-B472694D5A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B64FB2-A922-43CB-9AD0-B472694D5A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B64FB2-A922-43CB-9AD0-B472694D5A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB4359C9-5BF6-4AC8-951C-D59699864A8B}
+	EndGlobalSection
+EndGlobal
