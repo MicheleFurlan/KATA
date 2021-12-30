@@ -1,0 +1,13 @@
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.csproj.AssemblyReference.cache
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.AssemblyInfoInputs.cache
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.AssemblyInfo.cs
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.csproj.CoreCompileInputs.cache
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/bin/Debug/netcoreapp3.1/BitCounting.deps.json
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/bin/Debug/netcoreapp3.1/BitCounting.runtimeconfig.json
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/bin/Debug/netcoreapp3.1/BitCounting.runtimeconfig.dev.json
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/bin/Debug/netcoreapp3.1/BitCounting.dll
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/bin/Debug/netcoreapp3.1/BitCounting.pdb
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.dll
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.pdb
+/Users/michele/Documents/c_sharp/BitCounting/BitCounting/obj/Debug/netcoreapp3.1/BitCounting.genruntimeconfig.cache
