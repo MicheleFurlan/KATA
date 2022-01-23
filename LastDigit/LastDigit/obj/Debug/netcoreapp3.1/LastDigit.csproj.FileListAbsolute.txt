@@ -1,0 +1,13 @@
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/bin/Debug/netcoreapp3.1/LastDigit.deps.json
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/bin/Debug/netcoreapp3.1/LastDigit.runtimeconfig.json
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/bin/Debug/netcoreapp3.1/LastDigit.runtimeconfig.dev.json
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/bin/Debug/netcoreapp3.1/LastDigit.dll
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/bin/Debug/netcoreapp3.1/LastDigit.pdb
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.csproj.AssemblyReference.cache
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.AssemblyInfoInputs.cache
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.AssemblyInfo.cs
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.csproj.CoreCompileInputs.cache
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.dll
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.pdb
+/Users/michele/Documents/repo/KATA/LastDigit/LastDigit/obj/Debug/netcoreapp3.1/LastDigit.genruntimeconfig.cache

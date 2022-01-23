@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2659FA7B-8ED3-4CE3-AAC6-0B2D97133339}|Default">
+  <MonoDevelop.Ide.ItemProperties.LastDigitTest FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LastDigitTest/UnitTest1.cs">
+    <Files>
+      <File FileName="LastDigit/Program.cs" Line="1" Column="1" />
+      <File FileName="LastDigitTest/UnitTest1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LastDigit" expanded="True">
+            <Node name="LastDigit" expanded="True" />
+            <Node name="LastDigitTest" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LastDigit FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
